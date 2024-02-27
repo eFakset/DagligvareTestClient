@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../DagligvareMockServer"
+		},
+		{
+			"path": "../DagligvareClient"
+		},
+		{
+			"path": "."
+		}
+	]
+}
